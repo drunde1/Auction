@@ -1,0 +1,12 @@
+C:\Users\andre\Projects\Auction\Auction.Core\bin\Debug\net8.0\Auction.Core.deps.json
+C:\Users\andre\Projects\Auction\Auction.Core\bin\Debug\net8.0\Auction.Core.dll
+C:\Users\andre\Projects\Auction\Auction.Core\bin\Debug\net8.0\Auction.Core.pdb
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.AssemblyInfoInputs.cache
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.AssemblyInfo.cs
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.csproj.CoreCompileInputs.cache
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.sourcelink.json
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.dll
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\refint\Auction.Core.dll
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\Auction.Core.pdb
+C:\Users\andre\Projects\Auction\Auction.Core\obj\Debug\net8.0\ref\Auction.Core.dll
