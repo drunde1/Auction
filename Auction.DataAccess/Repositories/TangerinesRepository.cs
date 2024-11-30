@@ -96,6 +96,7 @@ namespace Auction.DataAccess.Repositories
                 else
                     previousUserBetId = Guid.Empty;
 
+
                 tangerine.Users.Add(user);
                 await _context.SaveChangesAsync();
 

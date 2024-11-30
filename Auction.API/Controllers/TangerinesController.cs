@@ -24,7 +24,15 @@ namespace Auction.API.Controllers
         {
             var tangerines = await _tangerinesService.GetAllTangerines();
 
-            var response = tangerines.Select(t => new TangerinesResponse(t.Id, t.Name, t.Place, t.Weight, t.StartPrice, t.IsActive, t.ExpirationDate));
+            var response = tangerines
+                .Select(t => new TangerinesResponse(
+                    t.Id,
+                    t.Name,
+                    t.Place, 
+                    t.Weight,
+                    t.StartPrice,
+                    t.IsActive,
+                    t.ExpirationDate));
 
             return Ok(response);
         }
